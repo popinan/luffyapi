@@ -305,3 +305,4 @@ Not Found: /favicon.ico
 "GET /nav/header/ HTTP/1.1" 200 5913
 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 4096
 "GET /nav/footer/ HTTP/1.1" 200 5619
+Watching for file changes with StatReloader
